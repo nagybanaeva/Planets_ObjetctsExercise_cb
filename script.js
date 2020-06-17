@@ -13,3 +13,8 @@ var solarSystem = {
 	'Haumea': 'törpebolygó', 
 	'Eris': 'törpebolygó'
 };
+
+solarSystem.Pluto = 'törpebolygó';
+
+document.write(solarSystem.Pluto);
+	
